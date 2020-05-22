@@ -1,5 +1,5 @@
-view: parallel_ratio_22052020091536_10 {
-  sql_table_name: `performance.Parallel_ratio_22052020091536_10`
+view: parallel_ratio_22052020112055_10 {
+  sql_table_name: `qineticgtm-horilb.performance.Parallel_ratio_22052020112055_10`
     ;;
 
   dimension: avg_cost {

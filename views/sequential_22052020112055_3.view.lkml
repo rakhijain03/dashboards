@@ -1,5 +1,5 @@
-view: parallel_22052020091536_10 {
-  sql_table_name: `performance.Parallel_22052020091536_10`
+view: sequential_22052020112055_3 {
+  sql_table_name: `qineticgtm-horilb.performance.Sequential_22052020112055_3`
     ;;
 
   dimension: avg_cost {
