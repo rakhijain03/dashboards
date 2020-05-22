@@ -15,3 +15,5 @@ explore: parallel_22052020091536_10 {}
 explore: parallel_ratio_22052020091536_10 {}
 
 explore: sequential_22052020091536_3 {}
+
+explore: table1 {}
