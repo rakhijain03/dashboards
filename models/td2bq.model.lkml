@@ -9,3 +9,8 @@ datagroup: td2bq_default_datagroup {
 }
 
 persist_with: td2bq_default_datagroup
+
+
+explore : parallel_22052020115316_10  {}
+explore : parallel_ratio_22052020115316_10  {}
+explore : sequential_22052020115316_3  {}
